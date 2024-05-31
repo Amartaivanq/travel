@@ -22,7 +22,8 @@ body {
   font-size: 25px;
 }
 #day-1 {
-  background: url(e3d1e49d2fbea11.jpg) no-repeat center center/cover;
+  background: url("The_Great_Wall_of_China_at_Jinshanling-edit.jpg") no-repeat
+    center center/cover;
 }
 #day-2 {
   background: url(Taj-Mahal-Agra-India.webp) no-repeat center center/cover;
@@ -38,4 +39,10 @@ body {
 }
 #day-5 {
   background: url(2190170541_440662ec5d_b.jpg) no-repeat center center/cover;
+}
+.page h1 {
+  color: black;
+}
+.page p {
+  font-size: 25px;
 }
